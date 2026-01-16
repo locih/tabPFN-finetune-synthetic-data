@@ -1,0 +1,15 @@
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+autogluon[tabular]>=0.5.0
+openml>=0.12.0
+scipy>=1.7.0
+
+causal-learn>=0.2.0
+dowhy>=0.10.0
+networkx>=2.6.0
+sdv>=0.18.0
+
+tqdm>=4.60.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
